@@ -64,7 +64,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <br />
         <br />
         <br />
-        <form action="reservations.php">
+        <form action="send_email.php">
             <input type="button" value="Back" onclick="javascript:history.go(-1)" />
         </form>
     </div>
@@ -82,4 +82,5 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 
 </html>
+
 
