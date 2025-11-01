@@ -1,4 +1,4 @@
-<?php
+ations<?php
 // === send_email.php ===
 // Collect form data and send it via email to techwriter35@duck.com
 
@@ -79,5 +79,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     </script>
 
 </body>
+
 
 </html>
